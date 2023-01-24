@@ -1,4 +1,3 @@
-"use strict";
 let age = 50;
 let name = "Max";
 let toggle = true;
